@@ -24,4 +24,4 @@ Student Model Training
 
 ![Architecture](./images/figure2.png)
 ![Model structure](./images/figure3.png)
-![differentmodels](./images/different models.png)
+![different models](./images/different.png)
